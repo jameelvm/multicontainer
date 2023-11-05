@@ -1,0 +1,6 @@
+# Ignore node_modules folders within specific directories
+/client/node_modules/
+/server/node_modules/
+/worker/node_modules/
+/nginx/node_modules/
+
